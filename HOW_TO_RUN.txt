@@ -1,0 +1,44 @@
+=========================================
+FILE ACCESS LOGGER - HOW TO RUN GUIDE
+=========================================
+
+To run this project with REAL-TIME updates on your Windows computer, 
+follow these simple steps:
+
+STEP 1: START THE PROJECT
+-------------------------
+1. Open your terminal (PowerShell or Command Prompt).
+2. Type the following command and press Enter:
+   
+   python start_project.py
+
+   *This will compile your C code, start the monitoring window, 
+    and open the Dashboard in your browser.*
+
+
+STEP 2: TRIGGER EVENTS
+----------------------
+1. Open "target.txt" in your text editor.
+2. Type something and SAVE the file.
+3. Check the black terminal window -- you will see the modification logged!
+
+
+STEP 3: VIEW THE REAL-TIME DASHBOARD
+------------------------------------
+1. Look at your web browser (it should be at http://localhost:8000).
+2. The dashboard will automatically update EVERY 1 SECOND.
+3. No manual file uploads are required as long as you use 'start_project.py'.
+
+
+FILES OVERVIEW:
+---------------
+- start_project.py       : The main launcher script.
+- file_logger.c          : Original Linux code (for project report).
+- file_logger_windows.c  : Windows version (for live demo).
+- Project_Report.md      : Your official project documentation.
+- file_access_log.txt    : The file where all logs are stored.
+- backups/               : Folder where all safety copies are saved.
+
+=========================================
+Project created for Prasanna Kumar & Raghunadh Reddy
+=========================================

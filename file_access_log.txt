@@ -1,0 +1,16 @@
+[Fri May 15 13:45:01 2026] File: target.txt | Event: OPEN | User: Santhu (UID: 1000)
+[Fri May 15 13:45:02 2026] File: target.txt | Event: READ | User: Santhu (UID: 1000)
+[Fri May 15 13:45:05 2026] File: target.txt | Event: MODIFY | User: Santhu (UID: 1000)
+[Fri May 15 13:13:18 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:15:50 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:16:30 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:16:30 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:29:13 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:29:13 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:29:13 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:29:52 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:29:52 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:29:52 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:30:10 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:33:11 2026] File: target.txt | Event: MODIFY | User: Santhu
+[Fri May 15 13:33:11 2026] File: target.txt | Event: MODIFY | User: Santhu
